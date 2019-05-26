@@ -1,9 +1,10 @@
-# openmv-MJPEG-by-esp8266
-shows off how to do MJPEG streaming for openmv by esp8266
+
+
 
 1.程序功能：
 
 使用esp8266给openmv增加图传功能
+此代码实现的功能与 openmv IDE里的代码例子 14-wifi-shield/mjpeg_stream 完全一样，区别是硬件使用esp8266，而不是官方的wifi shield.
 
 2.硬件要求：
 
