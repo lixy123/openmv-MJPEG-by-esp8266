@@ -32,7 +32,15 @@ esp8266 (wemos D1 Mini,其它版本应该没问题，但这个版本的引脚与
 <img src="https://github.com/lixy123/openmv-MJPEG-by-esp8266/blob/master/IMG_190907.jpg">
 
 4.使用：
-
+  
+  A.spi_camera_stream3.py 改名main.py放入openmv目录,开机会自动运行
+  
+  B.openmv_spi_cam4.ino 文件用arduino 1.8.9软件打开  
+  安装esp8266 for arduino 库。
+  板选择： nodemcu 1.0(ESP32-12e Module)
+  编译选择:Flash size:4M (3M SPIFFS), 其它默认
+  进行编译，烧写固件.
+  
   openmv与esp8266连接，openmv通过usb供电
   
   谷歌浏览器打开如下地址:
