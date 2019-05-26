@@ -29,6 +29,7 @@ esp8266 (wemos D1 Mini,其它版本应该没问题，但这个版本的引脚与
  
    GND                          GND 22
    
+<img src="https://github.com/lixy123/openmv-MJPEG-by-esp8266/blob/master/IMG_190907.jpg">
 
 4.使用：
 
